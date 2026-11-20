@@ -1,0 +1,37 @@
+{
+  "PlayerData": [
+    {
+      "ID": 1,
+      "Forename": "Ronaldo",
+      "Surname": "Nazário",
+      "ImageURL": ""
+    },
+    {
+      "ID": 2,
+      "Forename": "Ronaldinho",
+      "Surname": "Gaúcho",
+      "ImageURL": ""
+    },
+    {
+      "ID": 3,
+      "Forename": "Zinédine",
+      "Surname": "Zidane",
+      "ImageURL": ""
+    },
+    {
+      "ID": 4,
+      "Forename": "Thierry",
+      "Surname": "Henry",
+      "ImageURL": ""
+    },
+    {
+      "ID": 5,
+      "Forename": "Ricardo",
+      "Surname": "Kaká",
+      "ImageURL": ""
+    }
+  ],
+  "ClubData": [],
+  "LeagueData": [],
+  "CupData": [],
+  "StadiumData": []
